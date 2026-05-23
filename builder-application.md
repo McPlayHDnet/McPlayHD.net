@@ -1,18 +1,20 @@
 # The Builder Rank
 
-### Application
-In order to receive the Builder rank, you first have to go through the three steps of the application process. The first one - the assessment on Discord - involves providing information about yourself as well as showing what you've built in the past.
-The information we need to know is as follows:
+### Application Process
+In order to receive the Builder rank, you first have to go through the three steps of the application process. The first one - the assessment on Discord - involves providing information about yourself as well as showing what you've built in the past. If we decide that you fit our criteria, you will move on the the second phase, the evaluation process. That means building a map for a minigame of your choice, without gaining any rank for the moment, in order to prevent staff command abuse. Once we've decided based on those builds that you may be fit for the staff team, you will be allowed to enter the staff team as a Junior, meaning, we will assess how well you fit into the staff team and if you show the right behaviour for it. The three steps are layed out in more detail below.
+
+### Discord Application
+For the first step in the process we need a few pieces of information about you in order to get to know you a little. That would include the following:
 
 - Your Age
 - Your Ingame Name
 - Your Time Zone
 - Your Experience with Building Plugins like Worldedit
 
-Moreover, we would like to see some screenshots from past builds you made, and based on that, the decision is made if you can participate in the next step to the application, an evaluation phase. That means building a map for a minigame of your choice, without gaining any rank for the moment, in order to prevent staff command abuse. Once we've decided based on those builds that you may be fit for the staff team, you will be allowed to enter the staff team as a Junior, meaning, we will assess how well you fit into the staff team and if you show the right behaviour for it.
+Moreover, we would like to see some screenshots from past builds you made, and based on that, the decision is made if you can participate in the next step to the application, an evaluation phase.
 
 ### Evaluation Phase
-If you accept our terms, you will be granted access to the Testbuild/Evaluation server which you can reach by typing `/testbuild`. There, you will have as much time as you want to build a map and show your expertise as a builder. To create your own map, do `/create <name>`. Since the server is based in 1.8, you will sadly not be able to work with any 1.9+ blocks. The map you build should preferrably be for one of the gamemodes we offer on the server, so if you have any questions to the requirements for those maps, message me (wildflowery 🌼/worldgenerator) on Discord. Once you are finished, we will judge the build based on the following categories:
+If you accept our terms, you will be granted access to the Testbuild/Evaluation server which you can reach by typing `/testbuild`. There, you will have as much time as you want to build a map and show your expertise as a builder. To create your own map, do `/create <name>`. Since the server is based in 1.8, you will sadly not be able to work with any 1.9+ blocks and/or plugins. The map you build should preferrably be for one of the gamemodes we offer on the server, so if you have any questions to the requirements for those maps, message me (wildflowery 🌼/worldgenerator) on Discord. Once you are finished, we will judge the build based on the following categories:
 
 - Structure
   - How playable is the map for its intended gamemode?
@@ -37,7 +39,7 @@ If you think you're done, message me on Discord, including the name you gave you
 #### What makes a good Minigame map?
 The aesthetic is only one aspect of being Builder on a minigames server, the maps ought to be easily playable as well. For that, it is recommended to build rather flat surfaces to play on and not using ice as a floor. Furthermore, in games such as BedWars where you can place blocks, flowers, slabs, stairs and fences are all hindering the easy placement of blocks. Similarly, in modes where you can place blocks, you shouldn't use worldedit to create structures that can be destroyed by blockupdating them. Also, tall flowers/tall grass is annoying in almost any PvP circumstance since you can't hit through it. Lastly, large amounts of stained glass, as used i.e. in a fog effect maybe can make weaker PC setups have framedrops.
 
-#### Commands (Evaluation Phase)
+#### Useful Commands (Evaluation Phase)
 - `/testbuild` - Hop on the evaluation build server
 - `/create <name>` - Create a world - please use this and not /mv create
 - `/mv list` - Shows all the worlds we have on the server
